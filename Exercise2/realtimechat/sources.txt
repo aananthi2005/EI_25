@@ -1,0 +1,9 @@
+C:\Users\Admin\Downloads\realtimechat\src\com\chatapp\Main.java
+C:\Users\Admin\Downloads\realtimechat\src\com\chatapp\adapter\ClientAdapter.java
+C:\Users\Admin\Downloads\realtimechat\src\com\chatapp\adapter\SocketClientAdapter.java
+C:\Users\Admin\Downloads\realtimechat\src\com\chatapp\client\ChatClient.java
+C:\Users\Admin\Downloads\realtimechat\src\com\chatapp\model\Message.java
+C:\Users\Admin\Downloads\realtimechat\src\com\chatapp\model\User.java
+C:\Users\Admin\Downloads\realtimechat\src\com\chatapp\patterns\ChatRoom.java
+C:\Users\Admin\Downloads\realtimechat\src\com\chatapp\patterns\ChatRoomManager.java
+C:\Users\Admin\Downloads\realtimechat\src\com\chatapp\server\ChatServer.java
