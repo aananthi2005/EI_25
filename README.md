@@ -20,7 +20,7 @@ This repository contains two main projects:
 
 3.Commit changes and open a Pull Request
 
-** Author**
+**Author**
 
 Developed by Aananthi N
 
