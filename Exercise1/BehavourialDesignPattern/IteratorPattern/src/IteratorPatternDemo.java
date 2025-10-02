@@ -10,7 +10,7 @@ public class IteratorPatternDemo {
 
         IteratorCustom iterator = playlist.createIterator();
 
-        System.out.println("🎵 Playing songs from playlist:");
+        System.out.println("Playing songs from playlist:");
         while (iterator.hasNext()) {
             System.out.println("Now Playing: " + iterator.next());
         }
